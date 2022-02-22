@@ -30,8 +30,8 @@ Print the predicted output.
 
 ## Program:
 ```
-##Developed by:pavizhi b
-##REGISTER NUMBER: 212221230077
+##Developed by:RAKSHITHA DEVI
+##REGISTER NUMBER: 212221230082
 
 import pandas as pd
 from sklearn import linear_model
